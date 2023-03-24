@@ -1,7 +1,7 @@
 [package]
 authors = ["Kevin Boos <kevinaboos@gmail.com>"]
 name = "dfqueue"
-version = "0.1.0"
+version = "0.1.1"
 keywords = ["queue", "no_std", "fault tolerant", "decoupled", "interrupt", "irq-safe"]
 categories = ["no-std", "abstractions", "algorithms"]
 license = "MIT"
